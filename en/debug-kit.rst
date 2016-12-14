@@ -18,6 +18,8 @@ Then, you need to enable the plugin by executing the following line::
 
     bin/cake plugin load DebugKit
 
+PS: Enable sqlite on php.
+
 DebugKit Storage
 ================
 
